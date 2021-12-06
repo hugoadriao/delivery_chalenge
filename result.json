@@ -1,0 +1,77 @@
+{
+  "Moto 1": {
+    "pedidos": [
+      {
+        "pedido_id": 0,
+        "loja": 2,
+        "valor_pedido": 50
+      }
+    ],
+    "cash_in": 4.5
+  },
+  "Moto 2": {
+    "pedidos": [
+      {
+        "pedido_id": 0,
+        "loja": 2,
+        "valor_pedido": 50
+      },
+      {
+        "pedido_id": 1,
+        "loja": 2,
+        "valor_pedido": 50
+      }
+    ],
+    "cash_in": 9
+  },
+  "Moto 3": {
+    "pedidos": [
+      {
+        "pedido_id": 0,
+        "loja": 3,
+        "valor_pedido": 50
+      },
+      {
+        "pedido_id": 1,
+        "loja": 3,
+        "valor_pedido": 100
+      }
+    ],
+    "cash_in": 26.5
+  },
+  "Moto 4": {
+    "pedidos": [
+      {
+        "pedido_id": 0,
+        "loja": 1,
+        "valor_pedido": 50
+      },
+      {
+        "pedido_id": 1,
+        "loja": 1,
+        "valor_pedido": 50
+      },
+      {
+        "pedido_id": 2,
+        "loja": 1,
+        "valor_pedido": 50
+      }
+    ],
+    "cash_in": 13.5
+  },
+  "Moto 5": {
+    "pedidos": [
+      {
+        "pedido_id": 0,
+        "loja": 2,
+        "valor_pedido": 50
+      },
+      {
+        "pedido_id": 1,
+        "loja": 3,
+        "valor_pedido": 50
+      }
+    ],
+    "cash_in": 16
+  }
+}
